@@ -1,0 +1,9 @@
+commit b30e3d295324d8358357315f87b9aaba4473cd46 (HEAD -> main, origin/main, origin/HEAD)
+Merge: f36ad84 883314f
+Author: Marcel Lima <marcels.info@gmail.com>
+Date:   Thu Nov 6 11:05:35 2025 -0300
+
+    Merge branch 'main' of https://github.com/Marcel-Info/hora-da-pratica
+
+commit f36ad847e327fefc2438c926973a471dc750834b
+Author: Marcel Lima <marcels.info@gmail.com>
